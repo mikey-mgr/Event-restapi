@@ -4,7 +4,7 @@
 This project is a Java Spring Boot application that provides a RESTful API. The API can be used for various operations such as registering a new user, retrieving all events, retrieving an event by its ID, title, date, or time, adding a new event, updating an existing event by its ID, and deleting an event by its ID.
 
 ## Setup Instructions
-1. Clone the project repository from GitHub/GitLab to your local machine using the command: `git clone https://github.com/yourusername/yourrepository.git`
+1. Clone the project repository from GitHub/GitLab to your local machine using the command: `git clone https://github.com/mikey-mgr/Event-restapi.git`
 2. Change your current directory to the project directory: `cd Event-restapi`
 3. Use Maven to build the project: `mvn clean install`
 4. Run the application: `java -jar target/EventScheduler-0.0.1-SNAPSHOT.jar`
