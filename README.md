@@ -5,9 +5,9 @@ This project is a Java Spring Boot application that provides a RESTful API. The 
 
 ## Setup Instructions
 1. Clone the project repository from GitHub/GitLab to your local machine using the command: `git clone https://github.com/yourusername/yourrepository.git`
-2. Change your current directory to the project directory: `cd yourrepository`
+2. Change your current directory to the project directory: `cd Event-restapi`
 3. Use Maven to build the project: `mvn clean install`
-4. Run the application: `java -jar target/yourproject-0.0.1-SNAPSHOT.jar`
+4. Run the application: `java -jar target/EventScheduler-0.0.1-SNAPSHOT.jar`
 
 ## API Documentation
 ### API Endpoints
